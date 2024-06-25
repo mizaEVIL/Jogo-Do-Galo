@@ -36,7 +36,7 @@ pip install pillow
 
 # Author
 
-This project was created as a final project in the context of a training program.
+This project was created as a final project in the context of a training program..
 
 
 
